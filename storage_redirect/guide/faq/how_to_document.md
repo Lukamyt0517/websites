@@ -1,3 +1,8 @@
+[magisk_log_2023-08-19T05.17.54.log](https://github.com/RikkaApps/websites/files/12404242/magisk_log_2023-08-19T05.17.54.log)
+[magisk_log_2023-08-12T11.59.36.log](https://github.com/RikkaApps/websites/files/12404241/magisk_log_2023-08-12T11.59.36.log)
+[magisk_install_log_2023-08-19T03.18.11.log](https://github.com/RikkaApps/websites/files/12404240/magisk_install_log_2023-08-19T03.18.11.log)
+[magisk_install_log_2023-08-12T11.56.42.log](https://github.com/RikkaApps/websites/files/12404236/magisk_install_log_2023-08-12T11.56.42.log)
+[PH1_su_getprop.txt](https://github.com/RikkaApps/websites/files/12404218/PH1_su_getprop.txt)
 # How to use the Document (Files) app
 
 The Document app is part of the Android system. The advantage is that users can use it to directly access files from a variety of sources (any application that implements DocumentProvider, such as Google Drive).
